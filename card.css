@@ -8,6 +8,18 @@
     border: 2px solid black;
     flex-direction: column;
     box-shadow: 10px 10px 5px #aaaaaa;
+    margin: 4rem;
+}
+
+.card2 {
+    width: 25%;
+    height: 60%;
+    background-color: white;
+    display: flex;
+    border-radius: 1rem;
+    border: 2px solid black;
+    flex-direction: column;
+    box-shadow: 10px 10px 5px #aaaaaa;
 }
 
 .card_image {
@@ -16,9 +28,22 @@
     height: 40%;
 }
 
+.card2_image {
+    display: flex;
+    justify-content: center;
+    height: 40%;
+    max-width: 100%;
+}
+
 .card_image_img {
     border: 1px black solid;
     width: 90%;
+    border-radius: 1rem;
+}
+
+.card2_image_img {
+    border: 1px black solid;
+    width: 100%;
     border-radius: 1rem;
 }
 
