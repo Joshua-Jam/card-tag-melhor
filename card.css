@@ -56,10 +56,19 @@
     font-size: 3rem;
 }
 
+.card2_textbox_title {
+    font-size: 3rem;
+    color: white;
+    background-color: black;
+    width: fit-content;
+    padding: 1rem;
+    border-radius: 1rem;
+}
+
 .card_textbox_description {
     font-size: 2rem;
 }
 
 .card_textbox_by {
-    margin-top: 10rem;
+    margin-top: 6rem;
 }
